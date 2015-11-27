@@ -19,3 +19,4 @@ else:
     i = i + 1
     Result = Result * i
   print(Result)
+  print 'Congratulations'
